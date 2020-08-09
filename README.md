@@ -1,16 +1,14 @@
-### Hi there 👋
+<!-- **EliasJuk/EliasJuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 
-<!--
-**EliasJuk/EliasJuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Elias Juk
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@EliasPJ4-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EliasPJ4)](https://twitter.com/EliasPJ4) [![Linkedin Badge](https://img.shields.io/badge/-eliaspjuk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eliaspjuk/)](https://www.linkedin.com/in/eliaspjuk/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ➤ About me 
+
+- :earth_americas: I'm from Ponta Grossa - Paraná, Brasil
+- I love open source software 🖤
+- 🖤 JavaScript
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=eliasjuk&show_icons=true&hide=issues" alt="eliasjuk" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasjuk&hide=css&card_width=250&layout=compact)](https://github.com/eliasjuk/github-readme-stats)
