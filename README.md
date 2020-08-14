@@ -11,4 +11,4 @@
 - 🖤 JavaScript
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=eliasjuk&show_icons=true&hide=issues" alt="eliasjuk" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasjuk&hide=java&card_width=250&layout=compact)](https://github.com/eliasjuk/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=eliasjuk&show_icons=true&hide=issues" alt="eliasjuk" /> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliasjuk&hide=html,java&card_width=250&layout=compact)](https://github.com/eliasjuk/github-readme-stats)
